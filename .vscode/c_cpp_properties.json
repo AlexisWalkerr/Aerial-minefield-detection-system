@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/Users/Dharuvin Barot/OneDrive/Documents/Arduino/libraries/**",
+                "C:/Users/Dharuvin Barot/Downloads/my data/E&C/ROBOTICS/drone/custom codes/Aerial-minefield-detection-system/**",
+                "C:/Users/Dharuvin Barot/AppData/Local/Arduino15/**",
+                "C:/Users/Dharuvin Barot/AppData/Local/Arduino/"
+                
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ]
+        }
+    ],
+    "version": 4
+}
